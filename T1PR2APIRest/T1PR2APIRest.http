@@ -1,0 +1,6 @@
+@T1PR2APIRest_HostAddress = http://localhost:5210
+
+GET {{T1PR2APIRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
